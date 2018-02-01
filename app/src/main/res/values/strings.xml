@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grizzly Bear</string>
+    <string name="login_required_false">false</string>
+    <string name="login_required_true">true</string>
+</resources>
